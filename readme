@@ -1,0 +1,13 @@
+npm i cloudinary
+npm i multer
+
+
+only admin can upload image
+front end upload image
+open folder, call cloudinary
+cloudinary give you public id or access id, and url, stored in backend
+
+https://console.cloudinary.com/app/c-53d8d3d8b0f372ebc5d48ee3ba6592/assets/media_library/search?q=&view_mode=mosaic
+
+
+6:26:24
